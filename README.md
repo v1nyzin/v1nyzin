@@ -29,10 +29,20 @@
 
 ###
 
-<br clear="both">
+###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=v1nyzin&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+<picture>
+  <source srcset="https://raw.githubusercontent.com/v1nyzin/v1nyzin/output/pacman-contribution-graph-dark.svg#gh-dark-mode-only">
+  <img src="https://raw.githubusercontent.com/v1nyzin/v1nyzin/output/pacman-contribution-graph.svg#gh-light-mode-only" />
+</picture>
+
+###
+
+ # 🎯 Desenvolvedor em formação  💻 Apaixonado por tecnologia  
+
+Seja bem-vindo(a) ao meu GitHub! Aqui você vai encontrar **projetos, testes, ideias malucas, códigos que funcionam (e alguns que funcionam depois de muita insistência 😅)**.
+
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, em transição de carreira, apaixonado por tecnologia e movido pela curiosidade. Acredito que programar é muito mais do que escrever código — é **resolver problemas, criar soluções e impactar vidas.**
+
 
 ###
